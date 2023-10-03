@@ -1,0 +1,32 @@
+.course-page-container {
+    padding: 20px;
+  }
+  
+  .header {
+    background-color: #f9f9f9;
+    padding: 15px;
+    text-align: center;
+  }
+  
+  .course-image {
+    width: 100%;
+    max-width: 400px;
+    object-fit: cover;
+  }
+  
+  .meta-info {
+    margin-top: 15px;
+  }
+  
+  .media-section {
+    margin-top: 25px;
+  }
+  
+  .pdf-frame,
+  .video-frame {
+    width: 100%;
+    max-width: 600px;
+    height: 400px;
+    margin: 10px 0;
+  }
+  
